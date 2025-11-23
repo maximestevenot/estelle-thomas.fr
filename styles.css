@@ -302,15 +302,15 @@ nav.container {
     color: var(--color-duck-blue);
 }
 
-.card-trust {
+.card-partage {
     background-color: rgba(126, 200, 190, 0.1); /* Sky blue tint */
 }
 
-.card-softness {
+.card-ecoute {
     background-color: rgba(183, 157, 142, 0.1); /* Dark brown tint */
 }
 
-.card-energy {
+.card-soutien {
     background-color: rgba(235, 143, 95, 0.1); /* Melon tint */
 }
 
